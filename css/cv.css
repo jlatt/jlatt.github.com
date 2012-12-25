@@ -26,7 +26,7 @@ body {
 
 article {
     width: 55em;
-	  margin: 0 auto;
+	  margin: 0 auto 1em auto;
 	  padding: 0.5em;
 
 	  border: 1px solid #111;
